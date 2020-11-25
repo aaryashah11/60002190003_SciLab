@@ -25,4 +25,3 @@ plot(w1,h_mag1)
 figure;
 plot(w1,h_phase1)
 
-//task4
