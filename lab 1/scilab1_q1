@@ -37,5 +37,5 @@ figure;
 t6=0:0.02:1;
 x6=cos (2*%pi*t6);
 plot(t6,x6);
-
+![](Output/Images/Fantasy Art Watch_ Photo.jpg)
 
